@@ -32,7 +32,7 @@ Also, since the localization is unable to run in real-time, the bag should **NOT
 ## 4. Demo
 The localization method can be tested on 2018-06-23-12-46-26_0.bag without any modifications to the config file. The corresponding LiDAR map is located at res/2018-06-23-12-46-26_0_z-filtered_4m.pcd.
 
-**Video:**
+**Video:** (spedup)
 
 <a href="https://www.youtube.com/embed/Pr21EpuHMjI" target="_blank"><img src="http://img.youtube.com/vi/Pr21EpuHMjI/0.jpg" 
 alt="stereo_loc" width="240" height="180" border="10" /></a>
